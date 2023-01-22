@@ -1,3 +1,23 @@
 :root{
-    --color-primary: red;
+    /* color primary */
+	--color-primary: #00b4d8;
+	--color-primary-0: #33c3e0;
+	--color-primary-1: #0090ad;
+
+	/* color secundary */
+	--color-secondary: #415a77;
+	--color-secondary-0: #677b92;
+	--color-secondary-1: #34485f;
+
+	/* color third */
+	--color-third: #ffb00a;
+	--color-third-0: #ffc03b;
+	--color-third-1: #cc8d08;
+
+	/* Color white */
+	--color-white: #ffffff;
+
+	/* Color black */
+	--color-black: #1a1a1a;
+
 }
