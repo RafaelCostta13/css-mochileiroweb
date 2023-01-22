@@ -1,0 +1,20 @@
+:root {
+    /* FONT-SIZE DESKTOP */
+	--font-base: 16px;
+	--font-h1: 48px;
+	--font-h2: 40px;
+	--font-h3: 32px;
+	--font-h4: 26px;
+	--font-h5: 20px;
+	--font-h6: 16px;
+	--font-small: 12px;
+
+	/* FONT-SIZE SMARTPHONE */
+	--font-base-smartphone: 16px;
+	--font-h1-smartphone: 40px;
+	--font-h2-smartphone: 32px;
+	--font-h3-smartphone: 26px;
+	--font-h4-smartphone: 20px;
+	--font-h5-smartphone: 16px;
+	--font-h6-smartphone: 14px;
+}
