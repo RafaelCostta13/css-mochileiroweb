@@ -1,0 +1,29 @@
+.btn-fill{
+    height: 40px;
+	min-width: 320px;
+}
+.btn-fill-lg {
+    height: 60px;
+}
+.btn-fill-primary {
+    background-color: var(--color-primary);
+	color: var(--color-white);
+}
+.btn-fill-primary:hover{
+	background-color: var(--color-primary-1);
+}
+.btn-fill-secondary {
+    background-color: var(--color-secondary);
+	color: var(--color-white);
+}
+.btn-fill-secondary:hover{
+    background-color: var(--color-secondary-1);
+}
+
+.btn-fill-third {
+	background-color: var(--color-third);
+	color: var(--color-white);
+}
+.btn-fill-third:hover{
+	background-color: var(--color-third-1);
+}
